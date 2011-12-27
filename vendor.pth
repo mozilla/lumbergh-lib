@@ -16,3 +16,4 @@ src/bleach
 src/django-session-csrf
 src/django-multidb-router
 src/django-jobvite
+src/django-south
